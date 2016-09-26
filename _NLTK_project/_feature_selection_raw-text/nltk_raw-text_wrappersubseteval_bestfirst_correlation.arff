@@ -1,0 +1,11 @@
+=== Run information ===
+
+Evaluator:    weka.attributeSelection.WrapperSubsetEval -B weka.classifiers.rules.ZeroR -F 5 -T 0.01 -R 1 -E CORR-COEFF --
+Search:       weka.attributeSelection.BestFirst -D 1 -N 5
+Relation:     _Users_Ela_Dropbox_03c_NLTK_DOMIIC__NLTK_corpus__NLTK_corpus
+Instances:    125
+Attributes:   2
+              text
+              @@class@@
+Evaluation mode:    evaluate on all training data
+
